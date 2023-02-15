@@ -9,7 +9,7 @@
 
 # if statement
 # if else statement
-# if elif statement
+# if el if statement
 # Nested if statement
 # case statement
 # Each type of statements is explained in this tutorial with an example.
